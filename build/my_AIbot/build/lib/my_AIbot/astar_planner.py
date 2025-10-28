@@ -57,7 +57,7 @@ class AStarPlanner(Node):
 
         # === World goal ===
         self.start_world: WorldPt = (0.0, 0.0)
-        self.goal_world:  WorldPt = (4.4, 0.0)
+        self.goal_world:  WorldPt = (4.0, 0.0)
 
         # === Robot state ===
         self.robot_x = 0.0

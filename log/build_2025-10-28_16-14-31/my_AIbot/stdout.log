@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/my_AIbot/my_AIbot.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_AIbot/my_AIbot.egg-info/dependency_links.txt
+writing entry points to ../../build/my_AIbot/my_AIbot.egg-info/entry_points.txt
+writing requirements to ../../build/my_AIbot/my_AIbot.egg-info/requires.txt
+writing top-level names to ../../build/my_AIbot/my_AIbot.egg-info/top_level.txt
+reading manifest file '../../build/my_AIbot/my_AIbot.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_AIbot/my_AIbot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_AIbot/path_follower.py -> /home/jo/A-star_projectAIBOT/build/my_AIbot/build/lib/my_AIbot
+running install
+running install_lib
+copying /home/jo/A-star_projectAIBOT/build/my_AIbot/build/lib/my_AIbot/path_follower.py -> /home/jo/A-star_projectAIBOT/install/my_AIbot/lib/python3.10/site-packages/my_AIbot
+byte-compiling /home/jo/A-star_projectAIBOT/install/my_AIbot/lib/python3.10/site-packages/my_AIbot/path_follower.py to path_follower.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/jo/A-star_projectAIBOT/install/my_AIbot/lib/python3.10/site-packages/my_AIbot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/my_AIbot/my_AIbot.egg-info to /home/jo/A-star_projectAIBOT/install/my_AIbot/lib/python3.10/site-packages/my_AIbot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing astar_planner script to /home/jo/A-star_projectAIBOT/install/my_AIbot/lib/my_AIbot
+Installing path_follower script to /home/jo/A-star_projectAIBOT/install/my_AIbot/lib/my_AIbot
+writing list of installed files to '/home/jo/A-star_projectAIBOT/build/my_AIbot/install.log'

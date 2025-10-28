@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/my_AIbot/my_AIbot.egg-info/PKG-INFO
+../../build/my_AIbot/my_AIbot.egg-info/SOURCES.txt
+../../build/my_AIbot/my_AIbot.egg-info/dependency_links.txt
+../../build/my_AIbot/my_AIbot.egg-info/entry_points.txt
+../../build/my_AIbot/my_AIbot.egg-info/requires.txt
+../../build/my_AIbot/my_AIbot.egg-info/top_level.txt
+../../build/my_AIbot/my_AIbot.egg-info/zip-safe
+my_AIbot/__init__.py
+my_AIbot/astar_planner.py
+my_AIbot/path_follower.py
+resource/my_AIbot
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
