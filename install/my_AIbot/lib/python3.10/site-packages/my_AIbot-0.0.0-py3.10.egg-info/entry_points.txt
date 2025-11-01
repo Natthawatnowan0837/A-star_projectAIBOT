@@ -1,4 +1,0 @@
-[console_scripts]
-astar_planner = my_AIbot.astar_planner:main
-path_follower = my_AIbot.path_follower:main
-
